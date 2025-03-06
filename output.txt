@@ -1,0 +1,142 @@
+
+[90m══════════════════════════════════════════════[0m
+[93m🔹 Output:[0m
+[90m══════════════════════════════════════════════[0m
+[93m
+---- GUNS ----[0m
+
+[93mTotal Count: 21[0m
+
+[1;92m1.[0m [92m✨ [91;1mStarsea Admiral - AKM (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mRagnarok - AKM[0m[92m ✨[0m
+
+[1;92m2.[0m [92m✨ [91;1mFantastical Realm - SCAR-L (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mAbyss Commander - SCAR-L[0m[92m ✨[0m
+
+[1;92m3.[0m [92m✨ [91;1mGlacier - M416 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDesert Camo - M416[0m[92m ✨[0m
+
+[1;92m4.[0m [92m✨ [91;1mSealed Nether - M416 (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSpitfire - M416[0m[92m ✨[0m
+
+[1;92m5.[0m [92m✨ [91;1mRyomen Sukuna - Groza (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mBlue Dimension - GROZA[0m[92m ✨[0m
+
+[1;92m6.[0m [92m✨ [91;1mEmpyrean Charm - QBZ (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSpace Squad - QBZ[0m[92m ✨[0m
+
+[1;92m7.[0m [92m✨ [91;1mSkeletal Carver - M762 (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mKey of Destiny - M762[0m[92m ✨[0m
+
+[1;92m8.[0m [92m✨ [91;1mGlacier Hammer - UZI (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mTea Party - UZI[0m[92m ✨[0m
+
+[1;92m9.[0m [92m✨ [91;1mCryofrost Shard - UMP45 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mCuddly Panda - UMP45[0m[92m ✨[0m
+
+[1;92m10.[0m [92m✨ [91;1mMecha Drake - Vector (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mMarine Malice - Vector[0m[92m ✨[0m
+
+[1;92m11.[0m [92m✨ [91;1mDevious Cybercat - P90 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mViolet Flourish - P90[0m[92m ✨[0m
+
+[1;92m12.[0m [92m✨ [91;1mCadence Maestro - M24 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mTimeworn Pattern - M24[0m[92m ✨[0m
+
+[1;92m13.[0m [92m✨ [91;1mSerpengleam - AWM (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mNeon - AWM[0m[92m ✨[0m
+
+[1;92m14.[0m [92m✨ [91;1mMoondrop Eterna - M249 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mCircus - M249[0m[92m ✨[0m
+
+[1;92m15.[0m [92m✨ [91;1mSky Huntress - MG3 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mC7S21 - MG3[0m[92m ✨[0m
+
+[1;92m16.[0m [92m✨ [91;1mAbyssal Howl - AUG (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDefault AUG[0m[92m ✨[0m
+
+[1;92m17.[0m [92m✨ [91;1mIcicle Spike - ACE32 (Lv. 7)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDefault ACE32[0m[92m ✨[0m
+
+[1;92m18.[0m [92m✨ [91;1mAuspicious Lion - PP-19 Bizon (Lv. 5)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDefault PP-19 Bizon[0m[92m ✨[0m
+
+[1;92m19.[0m [92m✨ [91;1mGilded Jade Dragon - DP-28 (Lv. 5)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDefault DP-28[0m[92m ✨[0m
+
+[1;92m20.[0m [92m✨ [91;1mShinobi Kami - M416 (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mTime Traveler - M416[0m[92m ✨[0m
+
+[1;92m21.[0m [92m✨ [91;1mRoaring Immolation - M416 (Lv. 8)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mRugged (Orange) - M416[0m[92m ✨[0m
+
+[93m
+---- OUTFITS ----[0m
+
+[93mTotal Count: 37[0m
+
+[1;92m1.[0m [92m✨ [91;1mFlamewraith Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSlobby Shirt[0m[92m ✨[0m
+
+[1;92m2.[0m [92m✨ [91;1mMajestic Cavalry Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSports Top (Blue)[0m[92m ✨[0m
+
+[1;92m3.[0m [92m✨ [91;1mBramble Overlord Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSports Jacket[0m[92m ✨[0m
+
+[1;92m4.[0m [92m✨ [91;1mLightning Nebula Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mBlack Rose Military Jacket[0m[92m ✨[0m
+
+[1;92m5.[0m [92m✨ [91;1mNether Visage Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mHigh School Uniform (Male)[0m[92m ✨[0m
+
+[1;92m6.[0m [92m✨ [91;1mSpectral Swan Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mDenim Lover Top[0m[92m ✨[0m
+
+[1;92m7.[0m [92m✨ [91;1mCosmic Inquisitor Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSkull Voyager Top[0m[92m ✨[0m
+
+[1;92m8.[0m [92m✨ [91;1mBloody Noon Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSeason 5 Combat Top[0m[92m ✨[0m
+
+[1;92m9.[0m [92m✨ [91;1mStarsea Admiral Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mBlood Pact Top[0m[92m ✨[0m
+
+[1;92m10.[0m [92m✨ [91;1mSilver Guru Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPrisoner Shirt[0m[92m ✨[0m
+
+[1;92m11.[0m [92m✨ [91;1mSolar Knight Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSnow Reindeer Top[0m[92m ✨[0m
+
+[1;92m12.[0m [92m✨ [91;1mMoondrop Eterna Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPadded Jacket (Urban)[0m[92m ✨[0m
+
+[1;92m13.[0m [92m✨ [91;1mBloodstained Nemesis Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPadded Jacket (Camo)[0m[92m ✨[0m
+
+[1;92m14.[0m [92m✨ [91;1mPsychophage Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPadded Jacket (Purple)[0m[92m ✨[0m
+
+[1;92m15.[0m [92m✨ [91;1mCrimson Ephialtes Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPadded Jacket (Khaki)[0m[92m ✨[0m
+
+[1;92m16.[0m [92m✨ [91;1mNoctum Sunder Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mShirt (Orange)[0m[92m ✨[0m
+
+[1;92m17.[0m [92m✨ [91;1mDandy Groovster Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mT-Shirt (Gray)[0m[92m ✨[0m
+
+[1;92m18.[0m [92m✨ [91;1mWrathful Neptune Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mShirt (Gray)[0m[92m ✨[0m
+
+[1;92m19.[0m [92m✨ [91;1mThe Fool's Delight Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSchool Shirt with Necktie[0m[92m ✨[0m
+
+[1;92m20.[0m [92m✨ [91;1mFoxy Flare Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mBrawler's Shirt (Gray)[0m[92m ✨[0m
+
+[1;92m21.[0m [92m✨ [91;1mWinter Highness Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mFancy Shirt (White)[0m[92m ✨[0m
+
+[1;92m22.[0m [92m✨ [91;1mOrigin Lumen Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mShirt (Green)[0m[92m ✨[0m
+
+[1;92m23.[0m [92m✨ [91;1mLuminous Muse Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mCheckered Shirt (Red)[0m[92m ✨[0m
+
+[1;92m24.[0m [92m✨ [91;1mTemperance's Virtue Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSeason 7 Top[0m[92m ✨[0m
+
+[1;92m25.[0m [92m✨ [91;1mThe Lover's Grace Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mEagle Long Sleeve T-Shirt (Black)[0m[92m ✨[0m
+
+[1;92m26.[0m [92m✨ [91;1mInferno Fiend Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mROCK Long-Sleeved T-Shirt (Purple)[0m[92m ✨[0m
+
+[1;92m27.[0m [92m✨ [91;1mMercury Soldier Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mChecked Long-Sleeved T-Shirt (Dark Blue)[0m[92m ✨[0m
+
+[1;92m28.[0m [92m✨ [91;1mDevious Cybercat Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mFreestyle Top[0m[92m ✨[0m
+
+[1;92m29.[0m [92m✨ [91;1mSerene Lumina Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPolice Shirt[0m[92m ✨[0m
+
+[1;92m30.[0m [92m✨ [91;1mSpectral Admiral Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mMechanic Shirt[0m[92m ✨[0m
+
+[1;92m31.[0m [92m✨ [91;1mThe Reaper's End Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mBrawler's Shirt (Yellow)[0m[92m ✨[0m
+
+[1;92m32.[0m [92m✨ [91;1mVampyra Countess Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mSkeleton Suit[0m[92m ✨[0m
+
+[1;92m33.[0m [92m✨ [91;1mFeral Ravager Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mT-Shirt (Striped)[0m[92m ✨[0m
+
+[1;92m34.[0m [92m✨ [91;1mArctic Conqueror Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mCombat Training Top (Panther)[0m[92m ✨[0m
+
+[1;92m35.[0m [92m✨ [91;1mSnowstar Sweetheart Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mPlague Carrier Set[0m[92m ✨[0m
+
+[1;92m36.[0m [92m✨ [91;1mUntamed Celestial Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mAquatic Nemesis Set[0m[92m ✨[0m
+
+[1;92m37.[0m [92m✨ [91;1mJadefang Aurora Set[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mReindeer Ghillie Set[0m[92m ✨[0m
+
+[93m
+---- CAR ICON ----[0m
+
+[93mTotal Count: 2[0m
+
+[1;92m1.[0m [92m✨ [91;1mBentley Bentayga Azure (Galaxy Glitter)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mThe Skulls Off-Roader[0m[92m ✨[0m
+
+[1;92m2.[0m [92m✨ [91;1mMcLaren Formula 1 Team Race Car (Victory)[0m[92m [38;5;208m»[0m[92m  ➡️  [38;5;14m»[0m[92m [92;3mLifesaver Buggy[0m[92m ✨[0m
+
+
+[90m══════════════════════════════════════════════[0m
+[93m✅ Process Complete! Enjoy Your Data Extraction! ⚡[0m
